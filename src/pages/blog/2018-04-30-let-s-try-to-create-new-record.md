@@ -6,4 +6,6 @@ description: Description
 tags:
   - test
 ---
-Some text
+Some text. Here is an image example:
+
+![](/img/socks.png)
